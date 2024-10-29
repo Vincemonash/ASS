@@ -1,0 +1,4 @@
+"0",""
+"0","data <- read.csv(""data/mean-years-of-schooling-female.csv"")"
+"0",""
+"0","data"

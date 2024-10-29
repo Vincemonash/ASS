@@ -1,0 +1,4 @@
+"0",""
+"0","# Add a Gender column with ""Female"" as the only level"
+"0","data1$gender <- factor(rep(""Female"", nrow(data1)), levels = ""Female"")"
+"0","data2$gender <- factor(rep(""Male"", nrow(data2)), levels = ""Male"")"

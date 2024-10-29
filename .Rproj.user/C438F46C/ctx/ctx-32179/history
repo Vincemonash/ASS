@@ -1,0 +1,103 @@
+knitr::opts_chunk$set(echo = TRUE)
+data <- read.csv("data/mean-years-of=schooling-female.csv")
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+data <- read.csv("data\/mean-years-of-schooling-female.csv")
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+data <- read.csv("data\mean-years-of-schooling-female.csv")
+data <- read.csv("data\mean-years-of-schooling-female.csv")
+data <- read.csv("data\\mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+-- data <- read.csv("data\\mean-years-of-schooling-female.csv")
+-- data <- read_csv("data\\mean-years-of-schooling-female.csv")
+-- data <- read.csv("data\\mean-years-of-schooling-female.csv")
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+data <- read.csv("D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv")
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+# data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+# data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+-- "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+# data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+# data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+# data <- read.csv("data\\mean-years-of-schooling-female.csv")
+data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data
+data <- read.csv("data\\mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data
+data <- read.csv("data\\mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data <- read.csv("data\mean-years-of-schooling-female.csv")
+data <- read.csv("data\\mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+#data <- read.csv("D:\\Monash\\ETO5513\\Ass1\\data\\mean-years-of-schooling-female.csv")
+# "D:\Monash\ETO5513\Ass1\data\mean-years-of-schooling-female.csv"
+#data
+View(data)
+View(data)
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+data
+knitr::opts_chunk$set(echo = TRUE)
+data <- read.csv("data/mean-years-of-schooling-female.csv")
+data <- read.csv("../data/mean-years-of-schooling-female.csv")
+#data
+data <- read.csv("../data/mean-years-of-schooling-female.csv")
+#data
+knitr::opts_chunk$set(echo = TRUE)
+# Install and load the 'here' package if you haven’t yet
+install.packages("here")
+library(here)
+# Reference the project directory
+project_dir <- here()
+print(project_dir)  # Prints the path to the project directory
+# Install and load the 'here' package if you haven’t yet
+install.packages("here")
+library(here)
+# Reference the project directory
+project_dir <- here()
+print(project_dir)  # Prints the path to the project directory
+install.packages("here")
+# Install and load the 'here' package if you haven’t yet
+install.packages("here")
+library(here)
+install.packages("Rtools")
+library(Rtools)
+install.packages("Rtools")
+library(Rtools)
+install.packages("Rtools")
+#library(Rtools)
+# Install and load the 'here' package if you haven’t yet
+install.packages("here")
+library(here)
+# Reference the project directory
+project_dir <- here()
+print(project_dir)  # Prints the path to the project directory
